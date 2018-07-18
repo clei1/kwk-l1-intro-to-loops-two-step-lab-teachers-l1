@@ -10,7 +10,6 @@ def first_steps
     sleep(0.5)
     puts "Stop"
     sleep(1)
-    break
   end
 end
 
